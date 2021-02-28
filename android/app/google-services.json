@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789448465763",
+    "firebase_url": "https://atiq-academy.firebaseio.com",
+    "project_id": "atiq-academy",
+    "storage_bucket": "atiq-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789448465763:android:e1018f7a5cb86b30dc8756",
+        "android_client_info": {
+          "package_name": "com.cpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789448465763-h456nu98vrsu6ks7nqj5oplbth9tant5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOTNOCirFuG7Td45yX4VS4tAYbeTHh77Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789448465763-h456nu98vrsu6ks7nqj5oplbth9tant5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
